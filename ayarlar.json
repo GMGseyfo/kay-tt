@@ -1,0 +1,22 @@
+{
+  "prefix" : "Prefix",
+  "sahip" : "sahip ID",
+  "sunucu" : "Sunucu ID",
+  "token" : "TOKEN",
+
+
+  "giriskanal" : "Hoş Geldin Mesaj Kanal ID",
+  "tagLOG" : "Tag Kanal ID",
+
+  "tagROL" : "Tag ROl ID",
+  "tag" : "TAG",
+  
+  "yetkiliROL" : "Yetkili Rol ID",
+  "erkekROL" : "Erkek Rol ID",
+  "erkekICON" : "Erkek Icon ID",
+  "kadınROL" : "Kadın Rol ID",
+  "kadınICON" : "Kadın Icon ID",
+  "kayıtlıROL" : "Kayıtlı Rol ID",
+  "kayıtsızROL" : "Unregister ROl ID",
+  "botROL" : "BOT ROl ID"
+}
